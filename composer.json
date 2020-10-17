@@ -1,5 +1,5 @@
 {
-  "name": "davincho/tabulapdf-php-wrapper",
+  "name": "mndco/pdf-table-wrapper",
   "descritpion": "An OO PHP Wrapper for tabula-java",
   "require": {
     "php": ">=5.4.0"
